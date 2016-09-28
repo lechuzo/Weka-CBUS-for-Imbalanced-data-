@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry exported="true" kind="lib" path="dist/weka.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/java-cup.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/JFlex.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/packageManager.jar"/>
+	<classpathentry exported="true" kind="lib" path="weka-src.jar"/>
+	<classpathentry kind="lib" path="C:/NIR/sbc/fast-cbus/optics_dbScan.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
